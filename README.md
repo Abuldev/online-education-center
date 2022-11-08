@@ -1,2 +1,2 @@
-# OnlineEducationCentre
+# OnlineEducationCenter
 Javaee based web application
